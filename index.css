@@ -16,6 +16,7 @@ html,
             left: 0;
             background: rgb(0, 0, 0);
             user-select: none;
+            z-index: 0;
         }
 
 
